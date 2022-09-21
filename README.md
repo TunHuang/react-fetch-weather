@@ -22,6 +22,7 @@ Verwende die API [OpenWeather](https://openweathermap.org/current) und baue eine
 - Style die Seite so wie es dir gefällt!
 
 Beispiel:
+
 ![Referenz](referenz-bild.png)
 
 ## Bonus
